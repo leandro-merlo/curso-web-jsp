@@ -1,0 +1,8 @@
+br/com/manzatech/agenda/servlets/OiMundoServlet.class
+br/com/manzatech/agenda/models/Contato.class
+br/com/manzatech/agenda/servlets/AdicionaContatoServlet.class
+br/com/manzatech/agenda/database/ConnectionFactory.class
+br/com/manzatech/agenda/decorator/ContatoTableDecorator.class
+br/com/manzatech/agenda/database/ConnectionTest.class
+br/com/manzatech/agenda/database/Settings.class
+br/com/manzatech/agenda/database/dao/ContatoDAO.class
